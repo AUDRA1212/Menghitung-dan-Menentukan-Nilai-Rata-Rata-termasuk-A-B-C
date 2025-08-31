@@ -1,2 +1,2 @@
-# Menghitung-dan-Menentukan-Nilai-Rata-Rata-termasuk-A-B-C
+# Menghitung Nilai Siswa 
 Fitur fiturnya menarik
